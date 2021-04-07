@@ -14,3 +14,7 @@ Provided any of the below inputs:
   Location of the Point of Interest
   A sign board denoting the Point of Interest
 We can provide you with the Name and About the POI you are interested in!
+
+## How to run
+- clone the repo
+- ```python first.py```
